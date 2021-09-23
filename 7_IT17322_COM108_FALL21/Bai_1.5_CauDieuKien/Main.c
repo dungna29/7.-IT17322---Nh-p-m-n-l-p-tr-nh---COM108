@@ -44,15 +44,57 @@ int main()
 	 */
 	//Ví dụ 2:
 	
+	// double diemC;	
+	// printf_s("Moi nhap diem thi C cua ban: ");
+	// scanf_s("%lf", &diemC);	
+	// if (diemC >= 5 && diemC <=10)
+	// {
+	// 	printf("Chuc mung ban da qua mon C");		
+	// }else
+	// {
+	// 	printf("Chuc mung ban da mat 700k");
+	// }
+
+	/* Câu lệnh else If  để giúp nối nhiều case lại với nhau
+	 if (true)
+	{
+		//Thực thi 1 hành động khi thỏa mãn if
+	}else if(true)
+	{
+		//Thực thi 1 hành động khi thỏa mãn điều kiện
+	}
+	else if(true)
+	{
+		//Thực thi 1 hành động khi thỏa mãn điều kiện
+	}else{
+		//Thực thi khi tất cả các trường hợp đều không thỏa mã
+	}
+	 */
+	 //Ví dụ 3:
+	/*
+	 * 0 đến 4: Học lại
+	 * 5 đến 6: Trung bình
+	 * 6 đến 7: Khá
+	 * 7 đến 8: Giỏi
+	 * 9 đến 10: Siêu nhân
+	 */
 	double diemC;	
 	printf_s("Moi nhap diem thi C cua ban: ");
-	scanf_s("%lf", &diemC);	
-	if (diemC >= 5 && diemC <=10)
+	scanf_s("%lf", &diemC);
+	if (diemC>= 9 && diemC<=10)
 	{
-		printf("Chuc mung ban da qua mon C");		
+		printf_s("Sieu nhan");
+	}else if (diemC >= 7 && diemC < 9)
+	{
+		printf_s("Gioi");
+	}else if (diemC >= 6 && diemC < 7)
+	{
+		printf_s("Kha");
+	}else if (diemC >= 5 && diemC < 6)
+	{
+		printf_s("TB");
 	}else
 	{
-		printf("Chuc mung ban da mat 700k");
+		printf_s("Chuc mung ban mat 700k");
 	}
-	
 }
