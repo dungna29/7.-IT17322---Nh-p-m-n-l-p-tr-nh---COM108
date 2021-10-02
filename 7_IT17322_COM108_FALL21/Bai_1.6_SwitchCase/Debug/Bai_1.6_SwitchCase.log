@@ -1,6 +1,8 @@
 ﻿  Main.c
-E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.6_SwitchCase\Main.c(22,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
-E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.6_SwitchCase\Main.c(22,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
-E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.6_SwitchCase\Main.c(22,10): message : the missing variadic argument 2 is required by format string '%c'
-E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.6_SwitchCase\Main.c(22,10): message : this argument is used as a buffer size
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.6_SwitchCase\Main.c(23,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.6_SwitchCase\Main.c(23,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.6_SwitchCase\Main.c(23,10): message : the missing variadic argument 2 is required by format string '%c'
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.6_SwitchCase\Main.c(23,10): message : this argument is used as a buffer size
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.6_SwitchCase\Main.c(43,6): warning C4101: 'a': unreferenced local variable
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.6_SwitchCase\Main.c(43,9): warning C4101: 'b': unreferenced local variable
   Bai_1.6_SwitchCase.vcxproj -> E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Debug\Bai_1.6_SwitchCase.exe

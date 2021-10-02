@@ -1,6 +1,7 @@
-﻿  Main.c
-E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.8_HamVoid_KhongThamSo\Main.c(30,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
-E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.8_HamVoid_KhongThamSo\Main.c(30,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
-E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.8_HamVoid_KhongThamSo\Main.c(30,10): message : the missing variadic argument 2 is required by format string '%c'
-E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.8_HamVoid_KhongThamSo\Main.c(30,10): message : this argument is used as a buffer size
-  Bai_1.8_HamVoid_KhongThamSo.vcxproj -> E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Debug\Bai_1.8_HamVoid_KhongThamSo.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Bai_1.8_HamVoid_KhongThamSo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.c
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.8_HamVoid_KhongThamSo\Main.c(43,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.8_HamVoid_KhongThamSo\Main.c(43,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.8_HamVoid_KhongThamSo\Main.c(43,10): message : the missing variadic argument 2 is required by format string '%c'
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_1.8_HamVoid_KhongThamSo\Main.c(43,10): message : this argument is used as a buffer size
+  Bai_1.8_HamVoid_KhongThamSo.vcxproj -> E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Debug\Bai_1.8_HamVoid.exe
