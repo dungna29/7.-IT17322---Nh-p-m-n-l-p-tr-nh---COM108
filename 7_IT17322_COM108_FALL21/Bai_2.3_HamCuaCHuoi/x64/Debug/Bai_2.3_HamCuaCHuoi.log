@@ -1,0 +1,4 @@
+﻿  Main.c
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_2.3_HamCuaCHuoi\Main.c(19,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\Bai_2.3_HamCuaCHuoi\Main.c(19,10): message : consider using '%zd' in the format string
+  Bai_2.3_HamCuaCHuoi.vcxproj -> E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_Block1\7.-IT17322---Nh-p-m-n-l-p-tr-nh---COM108\7_IT17322_COM108_FALL21\x64\Debug\Bai_2.3_HamCuaCHuoi.exe
